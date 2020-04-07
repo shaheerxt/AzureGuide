@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Azure Hands-on practice portal
 
 You can use the [editor on GitHub](https://github.com/shaheerdba/AzureGuide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
